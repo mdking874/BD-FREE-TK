@@ -19,7 +19,7 @@ def keep_alive():
 # --- আপনার বটের তথ্য ---
 API_TOKEN = '7960268103:AAGkoU1DF7igV2ZxQa_2V51VHTUlJv2Q96o'
 TOURNAMENT_GROUP_LINK = "https://t.me/sgsgfsga"
-ADMIN_ID = 000000000  # <--- এখানে আপনার আইডি দিন ( @userinfobot থেকে নিয়ে)
+ADMIN_ID = 7707686630  # <--- এখানে আপনার আইডি দিন ( @userinfobot থেকে নিয়ে)
 
 bot = telebot.TeleBot(API_TOKEN)
 
